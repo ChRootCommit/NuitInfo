@@ -1,6 +1,6 @@
 # NuitDeLinfo
 
-Wallah la nuit de l'info
+ la nuit de l'info
 # Installer easyphp pour les utilisateurs Windows
 Installer easy php webserver version 17
 [Easy Php](https://www.easyphp.org/download.php)
